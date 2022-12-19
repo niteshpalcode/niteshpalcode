@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/iampal96" target="blank"><img src="https://img.shields.io/twitter/follow/iampal96?logo=twitter&style=for-the-badge" alt="iampal96" /></a> </p>
 
-<p align="left"> <a href="(https://niteshpalcode.github.io/)" target="blank"><img src="" alt="iampal96" /></a> </p>
-
 - 🌱 I’m currently learning **Java , SpringBoot, SQL, Hibernate ,Maven,REST APIs**
 
 - 📫 How to reach me **nitesh.1996pal@gmail.com**
+- **https://niteshpalcode.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
