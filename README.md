@@ -9,9 +9,9 @@
 <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9252&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9252" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshpalcode&label=Profile%20views&color=0e75b6&style=flat" alt="niteshpalcode" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9252" alt="rohit9252" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshpalcode" alt="niteshpalcode" /></a> </p>
 
 
 
@@ -34,8 +34,8 @@ I'm a Java Backend Developer with expertise in core Java, Spring Boot, and the a
 
 <p align="center">
   <a href="https://github.com/saurabhrana7699">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saurabhrana7699&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhrana7699&theme=gotham&hide_border=false" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=niteshpalcode&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshpalcode&theme=gotham&hide_border=false" />
   </a>
 </p>
   
