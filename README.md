@@ -20,7 +20,7 @@
 I'm a Java Backend Developer with expertise in core Java, Spring Boot, and the ability to write clean, efficient code. like solving issues using data structures and algorithms. I'm looking to improve my abilities as a backend developer. a few front-end technologies, including JavaScript, HTML, and CSS. I'm passionate about leveraging the technological skills I've acquired to construct projects. I'm open to possibilities that will allow me to develop stronger, more advanced talents. Belief: Success cannot be achieved quickly
 
 
-
+## Connect with me 
 <div align="center">
 <a href="https://github.com/niteshpalcode" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
