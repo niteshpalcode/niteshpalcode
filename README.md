@@ -33,7 +33,7 @@ I'm a Java Backend Developer with expertise in core Java, Spring Boot, and the a
 
 
 <p align="center">
-  <a href="https://github.com/saurabhrana7699">
+  <a href="https://github.com/niteshpalcode">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=niteshpalcode&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshpalcode&theme=gotham&hide_border=false" />
   </a>
