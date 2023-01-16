@@ -28,10 +28,12 @@ I'm a Java Backend Developer with expertise in core Java, Spring Boot, and the a
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitesh-kumar-830951188/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+nitesh.1996pal@gmail.com
 <a href="nitesh.1996pal@gmail.com" target="_blank">
 
 </a> 
-                                                  <a href="https://niteshpalcode.gi" target="_blank">
+                                                  https://niteshpalcode.github.io/
+                                                  <a href="https://niteshpalcode.github.io/" target="_blank">
 
 </a>  
                                                   
