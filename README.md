@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, Nitesh Kumar Pal</h1>
 <h3 align="center">A creative and diligent aspiring full-stack developer with a specialization in java backend. Self-believing and enthusiastic, with a keen interest in building and designing backend. Looking forward to sharpening my skills in a challenging environment. I guarantee enthusiasm in work and fulfilling my projects with inexpressible efforts.</h3>
-<img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500">
+<!-- <img align ="right"alt="Coding"width=400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x500"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshpalcode&label=Profile%20views&color=0e75b6&style=flat" alt="niteshpalcode" /> </p>
