@@ -11,13 +11,12 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Java SpringBoot SQL**
 
-- 👨‍💻 All of my projects are available at [https://niteshpalcode.github.io/](https://niteshpalcode.github.io/)
 
 - 💬 Ask me about **Java ,SQL, SpringBoot**
 
 - 📫 How to reach me **nitesh.1996pal@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/103Z9gLnV4aKazQwLC6ywpSmmNGHrk_vs/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
